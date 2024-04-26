@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2.0,
+	"id": "dashboards_list",
+	"type": "widget",
+	"name": "Dashboards list",
+	"namespace": "DashboardsList",
+	"version": "1.0",
+	"author": "imThief",
+	"actions": {
+		"widget.dashboards_list.view": {
+			"class": "WidgetView"
+		}
+	},
+	"assets": {
+		"css": ["widget.css"]
+	}
+}

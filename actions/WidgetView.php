@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\DashboardsList\Actions;
+namespace Widgets\DashboardsList\Actions;
 use API,CControllerDashboardWidgetView,CControllerResponseData,CDashboard;
 
 class WidgetView extends CControllerDashboardWidgetView {

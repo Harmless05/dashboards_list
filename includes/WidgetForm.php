@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\DashboardsList\Includes;
+namespace Widgets\DashboardsList\Includes;
 use Zabbix\Widgets\CWidgetForm;
 use Zabbix\Widgets\CWidgetField;
 use Zabbix\Widgets\Fields\CWidgetFieldMultiSelectItem;
